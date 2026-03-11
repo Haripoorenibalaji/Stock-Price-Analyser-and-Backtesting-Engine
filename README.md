@@ -84,6 +84,17 @@ A large language model generates a natural-language explanation of the decision 
 
 This provides interpretable financial insights for non-technical users.
 
+**Outputs**
+
+1. Time series Decomposition of sample data
+   <img width="1440" height="900" alt="Time Series Decomposition" src="https://github.com/user-attachments/assets/f6468eb1-8446-4e50-93a1-db4b8c1be195" />
+
+2. LLM explanation and prediction saved to text file
+   <img width="1096" height="456" alt="LLM explanation saved to text file" src="https://github.com/user-attachments/assets/6bb74a74-fdfb-4986-896f-c7a9d3c9a6d5" />
+
+3. Terminal LLM Explanation
+   <img width="1100" height="565" alt="Terminal LLM Explanation" src="https://github.com/user-attachments/assets/07ea2a3c-9297-4540-a7b3-fffe6d52a57f" />
+
 **Project Structure**
 
 stock-price-analyser
