@@ -26,25 +26,7 @@ Pipeline:
 
 Detailed workflow:
 
-User selects stock
-        ↓
-main.py
-        ↓
-dataset.py
-        ↓
-preprocessing.py
-        ↓
-analysis.py
-        ↓
-insights.py
-        ↓
-backtesting.py
-        ↓
-decision.py
-        ↓
-llm_explainer.py
-        ↓
-Final report + explanation
+User selects stock -> main.py -> dataset.py -> preprocessing.py -> analysis.py -> insights.py -> backtesting.py -> decision.py -> llm_explainer.py -> Final report + explanation
 
 **Features**
 
