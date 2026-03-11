@@ -72,12 +72,6 @@ Final report + explanation
    -Strategy performance
    -Risk metrics
 
-**Outputs**
-
-BUY
-HOLD
-AVOID
-
 **LLM Explainability**
 
 A large language model generates a natural-language explanation of the decision using only computed metrics.
