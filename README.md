@@ -26,7 +26,25 @@ Pipeline:
 
 Detailed workflow:
 
-User selects stock -> main.py -> dataset.py -> analysis.py -> insights.py -> backtesting.py -> decision.py -> llm_explainer.py -> Final report + explanation
+User selects stock
+        ↓
+main.py
+        ↓
+dataset.py
+        ↓
+preprocessing.py
+        ↓
+analysis.py
+        ↓
+insights.py
+        ↓
+backtesting.py
+        ↓
+decision.py
+        ↓
+llm_explainer.py
+        ↓
+Final report + explanation
 
 **Features**
 
@@ -72,26 +90,6 @@ This provides interpretable financial insights for non-technical users.
 
 **3. Terminal LLM Explanation**
    <img width="1100" height="565" alt="Terminal LLM Explanation" src="https://github.com/user-attachments/assets/07ea2a3c-9297-4540-a7b3-fffe6d52a57f" />
-
-**Project Structure**
-
-stock-price-analyser
-│
-├── src/
-│   ├── analysis.py        # time-series analysis
-│   ├── backtesting.py     # strategy engine
-│   ├── dataset.py         # data loading
-│   ├── preprocessing.py   # data cleaning
-│   ├── insights.py        # structured market insights
-│   ├── decision.py        # BUY/HOLD/AVOID logic
-│   ├── llm_explainer.py   # LLM explanation layer
-│   ├── main.py            # pipeline orchestrator
-│   └── colorsetup.py      # visualization settings
-│
-├──Final-50-stocks.csv
-├── requirements.txt
-├── README.md
-└── .gitignore
 
 **Installation**
 
