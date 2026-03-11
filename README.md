@@ -77,8 +77,8 @@ This provides interpretable financial insights for non-technical users.
 
 1. Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/stock-price-analyser.git
-cd stock-price-analyser
+git clone https://github.com/Haripoorenibalaji/Stock-Price-Analyser-and-Backtesting-Engine.git
+cd Stock-Price-Analyser-and-Backtesting-Engine
 
 2. Install dependencies:
 
