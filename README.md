@@ -140,6 +140,10 @@ This project demonstrates:
    - explainable AI workflows
    - integration of LLMs with quantitative models
 
+**Author**
+
+Hari Pooreni Balaji
+
 **License**
 
 MIT License
